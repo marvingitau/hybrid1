@@ -147,7 +147,7 @@ Brand One Carousel
             nav: true,
             dots: true,
             smartSpeed: 500,
-            autoplay: true,
+            autoplay: false,
             autoplayTimeout: 7000,
             navText: [
                 '<span class="icon fa fa-angle-left"></span><p>Prev</p>',
